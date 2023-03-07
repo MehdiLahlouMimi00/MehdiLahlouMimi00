@@ -20,21 +20,5 @@
 ![Tools](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=unity,godot,figma,ai,aws,azure,arduino,git,wordpress,matlab,r,heroku,latex,linux,vim&perline=7)
 
 ### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/mehdi-lahlou-mimi-893b91245/">https://skillicons.dev/icons?i=linkedin</a>
-
-
-<!--
-**MehdiLahlouMimi00/MehdiLahlouMimi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  ...
-
--->
-
+* <a href="https://www.linkedin.com/in/mehdi-lahlou-mimi-893b91245/">Linkedin</a>  
 
