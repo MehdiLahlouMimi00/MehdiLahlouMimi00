@@ -1,6 +1,8 @@
 
 ### Hi there 👋, I am Mehdi Lahlou Mimi
 
+
+
 <span style="text-align:center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Cloud+Engineering+Student;Self+thaught+Game+Developer;AI+&+Data+Passionate;Entrepreneurship+Passionate)](https://git.io/typing-svg)
 </span>
