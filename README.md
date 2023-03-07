@@ -17,7 +17,7 @@
 
 <h3 align="left">Tools :</h3>
 
-![Tools](https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=unity,godot,figma,ai,aws,azure,arduino,git,wordpress,matlab,r,heroku,latex,linux,vim&perline=7)
+![Tools](https://skillicons.dev/icons?i=unity,godot,figma,ai,aws,azure,arduino,git,wordpress,matlab,r,heroku,latex,linux,vim&perline=7)
 
 ### 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/mehdi-lahlou-mimi-893b91245/">Linkedin</a>  
