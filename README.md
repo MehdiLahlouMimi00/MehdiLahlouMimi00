@@ -6,7 +6,8 @@
 ![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java,dart)
 
 <h3 align="left">Frameworks :</h3>
-![Frameworks](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react)
+
+![Frameworks](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django)
 
 <h3 align="left">Tools :</h3>
 
