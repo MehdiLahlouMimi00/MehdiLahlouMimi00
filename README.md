@@ -7,7 +7,7 @@
 
 <h3 align="left">Frameworks :</h3>
 
-![Frameworks](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django)
+![Frameworks]([https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django,jquery,sass,tensorflow,selenium,redux,express,angular,tailwind))
 
 <h3 align="left">Tools :</h3>
 
