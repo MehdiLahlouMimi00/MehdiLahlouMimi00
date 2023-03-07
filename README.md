@@ -3,11 +3,11 @@
 
 <h3 align="left">Languages :</h3>
 
-![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java,dart)
+![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java,dart&perline=3)
 
 <h3 align="left">Frameworks :</h3>
 
-![Frameworks]([https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django,jquery,sass,tensorflow,selenium,redux,express,angular,tailwind))
+![Frameworks](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django,jquery,sass,tensorflow,selenium,redux,express,angular,tailwind&perline=3)
 
 <h3 align="left">Tools :</h3>
 
