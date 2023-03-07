@@ -4,16 +4,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/40670/c-programming" alt="c" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/40669/c%2B%2B" alt="cplusplus" width="40" height="40"/>
+  <img src="https://icons8.com/icon/owWiEaAJmGKK/html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page" alt="html5" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/21278/css3" alt="css3" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma" alt="figma" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter" alt="flutter" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/20906/git" alt="git" width="40" height="40"/> 
+  <img src="https://icons8.com/icon/13441/python" alt="python" width="40" height="40"/> 
 </p>
 
 
