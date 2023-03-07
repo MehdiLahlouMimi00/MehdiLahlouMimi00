@@ -1,9 +1,9 @@
 
 ### Hi there 👋, I am Mehdi Lahlou Mimi
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 
-[![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go)]
+![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java)
 
 
 <!--
