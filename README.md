@@ -3,8 +3,12 @@
 
 <h3 align="left">Languages :</h3>
 
-![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java)
+![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java,dart)
 
+<h3 align="left">Frameworks :</h3>
+![Frameworks](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react)
+
+<h3 align="left">Tools :</h3>
 
 <!--
 **MehdiLahlouMimi00/MehdiLahlouMimi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
