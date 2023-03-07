@@ -8,7 +8,7 @@
   
 <h3 align="left">Languages :</h3>
 
-![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java,dart&perline=7)
+![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,cs,c,cpp,lua,ruby,go,rust,php,java,dart,bash&perline=7)
 
 <h3 align="left">Frameworks :</h3>
 
