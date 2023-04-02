@@ -21,4 +21,4 @@
 
 ### 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/mehdi-lahlou-mimi-893b91245/">Linkedin</a>  
-
+* <a href="https://linktr.ee/mehdilahloumimi">Linktree</a>
