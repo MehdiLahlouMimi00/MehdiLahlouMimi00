@@ -2,7 +2,6 @@
 ### Hi there 👋, I am Mehdi Lahlou Mimi
 
 
-<h1 align="left"><a href="https://mehdilahloumimi.netlify.app/">My portfolio</a></h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Cloud+Engineering+Student;Self+thaught+Game+Developer;AI+\+Data+Passionate;Entrepreneurship+Passionate)](https://git.io/typing-svg)
@@ -24,3 +23,5 @@
 ### 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/mehdi-lahlou-mimi-893b91245/">Linkedin</a>  
 * <a href="https://linktr.ee/mehdilahloumimi">Linktree</a>
+
+<h1 align="left"><a href="https://mehdilahloumimi.netlify.app/">My portfolio</a></h1>
