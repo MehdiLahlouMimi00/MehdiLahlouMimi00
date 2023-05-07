@@ -13,7 +13,7 @@
 
 <h1 align="left">Frameworks :</h3>
 
-![Frameworks](https://skillicons.dev/icons?i=flutter,nodejs,bootstrap,react,flask,django,jquery,sass,tensorflow,selenium,redux,express,angular,tailwind&perline=7)
+![Frameworks](https://skillicons.dev/icons?i=androidstudio,flutter,nodejs,bootstrap,react,flask,django,jquery,sass,tensorflow,selenium,redux,express,angular,tailwind&perline=7)
 
 
 <h1 align="left">Tools :</h3>
